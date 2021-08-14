@@ -17,8 +17,8 @@
 If deploying to Heroku make sure to create config variables
 
 ```
-git clone https://github.com/eritislami/evobot.git
-cd evobot
+git clone https://github.com/SakshamOP/sakbot_akamusicbot
+cd sakbot_akamusicbot
 npm install
 ```
 
@@ -26,7 +26,7 @@ After installation finishes you can use `node index.js` to start the bot.
 
 ## ⚙️ Configuration
 
-Copy or Rename `config.json.example` to `config.json` and fill out the values:
+
 
 ⚠️ **Note: Never commit or share your token or api keys publicly** ⚠️
 
@@ -119,14 +119,6 @@ Examples: `1` or `1,2,3`
 
 ![reactions](https://i.imgur.com/9S7Omf9.png)
 
-## 🤝 Contributing
-
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request
 
 ## 📝 Credits
 
