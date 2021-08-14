@@ -1,0 +1,7 @@
+﻿{
+  "name": "Sak music bot",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/SakshamOP/sakbot_akamusicbot",
+  "logo": "",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
